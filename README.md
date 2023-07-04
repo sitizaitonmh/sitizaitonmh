@@ -35,8 +35,8 @@ I am  __ctz__, and I work as a lecturer at [Universiti Teknologi Malaysia](https
 
 ### 🙌🏻 Connect with Me
 <p align="left">
-    <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sitizaitonmh-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/drshahizan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-sitizaitonmh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
+    <a href="https://github.com/sitizaitonmh" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sitizaitonmh-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/sitizaitonmh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-sitizaitonmh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
     <a href="mailto:sitizaiton@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-sitizaiton@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sitizaitonn@utm.my.com"></a>
     <a href="https://www.researchgate.net/profile/sitizaiton" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
